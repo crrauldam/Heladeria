@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#C29393</color>
+    <color name="vanilla">#E6D783</color>
+    <color name="chocolate">#6b3e26</color>
+    <color name="strawberry">#ffc5d9</color>
+    <color name="cone">#AC834C</color>
+    <color name="coneC">#4A361B</color>
+</resources>

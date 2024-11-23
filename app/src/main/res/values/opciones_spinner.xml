@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_spinner">
+        <item>Seleccione tipo recipiente</item>
+        <item>Cucurucho</item>
+        <item>Cucu. choco</item>
+        <item>Tarrina</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Heladeria</string>
+    <string name="cantidad_chocolate">Cantidad chocolate</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cantidad_vainilla">Cantidad vainilla</string>
+    <string name="vainilla">Vainilla</string>
+    <string name="fresa">Fresa</string>
+    <string name="cantidad_fresa">Cantidad fresa</string>
+    <string name="generar_helado">GENERAR HELADO</string>
+    <string name="recipiente">Recipiente</string>
+    <string name="volver">VOLVER</string>
+</resources>
